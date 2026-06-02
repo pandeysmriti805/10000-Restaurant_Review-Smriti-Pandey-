@@ -23,8 +23,7 @@ It was the first step where managerial decision problem was defined; Which resta
 **4) Visualization<br>**
   - Top 10 Restaurant by Average Rating
   - Button 10 Restaurant by Average Rating
-  - Pivot table of customer ratings
-  - Average rating by uploaded picture of review<br>
+  - Pivot table of customer ratings <br>
 **Key Findings**
   - Average customer ratings were 3.6/5
   - Absolute Barbecues Restaurant have highest average review
