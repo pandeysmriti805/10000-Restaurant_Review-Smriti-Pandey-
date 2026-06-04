@@ -31,7 +31,7 @@ It was the first step where managerial decision problem was defined; Which resta
   - Huge differences in customer satisfaction among the restaurants
   - Restaurants rating which has uploaded pictures have higher rating <br>
 **Managerial Recommendations**<br>
-  - Benchmark operation practices for top performing restaurants
+  - Replicate best practices used by high performing restaurants
   - Improvement for low performing restaurants
   - Providing staff training
   - Encourage the customer engagement through online review by sharing photo<br>
