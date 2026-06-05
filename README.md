@@ -1,15 +1,15 @@
 # 10000-Restaurant_Review-Smriti-Pandey-
 # Restaurant Performance Improvement by using Customer Reviews<br>
 **Overview of the project**<br>
-This project is a part of Data Driven Managerial Decision assignment. The project looks over the rating and review of 10000 restaurant, with the objective to use it for identify low performing and high performing restaurants based on reviews. This project identifies the customer sentiment from " 10000 Restaurant Reviews" file to solve complicated problem, "Which restaurants requires investment for improvement and which restaruants should use the benchmark model for improving overall customer satisfaction?". <br> <br>
+This project is a part of Data Driven Managerial Decision assignment. The decision-maker for this project is the “Operations Manager,” responsible for ensuring restaurants run smoothly every day in terms of customer experiences and business performance. The project looks over the rating and review of 10000 restaurant operating under the same company, with the objective to use it for identify low performing and high performing restaurants based on reviews. This project identifies the customer sentiment from " 10000 Restaurant Reviews" file to solve complicated problem, "Which restaurants from the company requires investment for improvement and which restaruants should use the benchmark model for improving overall customer satisfaction?". <br> <br>
 **Dataset of 10,000 Restaurant Review** <br>
-- Name of the restaurant
-- Reviewer name
-- What review they give
-- Picture uploaded of reviewed item <br>
+- Name of the restaurant (identify top and buttom peformance restaurants)
+- Rating (measure customer satisfication)
+- What review they give ( measure customer feedback)
+- Picture uploaded of reviewed item (measures customer engagement) <br>
 **Analytical Process**  <br>
 **1) Business Understanding:** <br>
-It was the first step where managerial decision problem was defined; Which restaurants should the management prioritize for the service, quality, and customer satisfaction improvements?.<br>
+It was the first step where managerial decision problem was defined; Which restaurants of the company should the management prioritize for the service, quality, and customer satisfaction improvements?.<br>
 **2) Data Preparation: <br>**
   - Imported the data set
   - Checked for missing and invalid observations
@@ -32,7 +32,7 @@ It was the first step where managerial decision problem was defined; Which resta
   - Restaurants rating which has uploaded pictures have higher rating <br>
 **Managerial Recommendations**<br>
   - Replicate best practices used by high performing restaurants
-  - Improvement for low performing restaurants
+  - Initial priority for improving performance of bottom 10 low-performing restaurants
   - Providing staff training
   - Encourage the customer engagement through online review by sharing photo<br>
 **Tool Used**<br>
